@@ -33,3 +33,6 @@ Azure Databricks - Esta ferramenta é utilizada para o tratamento dos dados, seg
  Azure Synapse - Cria visualizações do armazenamento da Camada Gold, permitindo que sejam utilizadas pelo Power BI para a criação de dashboards e análises.
 
  Power BI - Utilizado para a criação de dashboards e análises a partir dos dados disponíveis na Camada Gold.
+
+
+![image](https://github.com/camila-almeida-rodrigues/Loan-data-engineering-project/assets/139059782/827f7bcc-962c-4df6-8712-58989106fba8)
